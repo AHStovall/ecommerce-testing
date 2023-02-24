@@ -7,6 +7,7 @@
 This application is supplying back-end programming for an e-commerce site. It utilizes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
 
 ## Link to video walkthrough
+![Video Link](https://drive.google.com/file/d/1_3-Voh_ARKD3uczMnq5O93tNCqZilvwv/view?usp=sharing)
 
 ## Installation
 MySQL Workbench - drop database if it exists, create database (see db folder). 
